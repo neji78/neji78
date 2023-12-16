@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Esmaeil Sadeghi
 - 👀 I’m interested in Qml,C++,OOP and AI
-- 🌱 I’m currently learning GOlang and anroid
-- 💞️ I’m looking to collaborate on android apps.
+- 🌱 I’m currently learning GOlang and android
 - 📫 How to reach me esmaeil.sadeghi1999@gmail.com
 
 <!---
