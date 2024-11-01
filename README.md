@@ -1,11 +1,3 @@
-Hi there @@
-considere growing world faster than every time. we`re here yeah we need to learn more and more until understand what happened and then must do our part. knowing means there is more and if you`r like me so buddy you're in big trouble because you need it. achieve that 
-"The Knowledge".
+In a rapidly evolving world, we must continuously learn and understand our surroundings. Each bit of knowledge opens the door to more questions, and for those who seek it, the pursuit of “The Knowledge” is essential.
 
-contact me by esmaeil.sadeghi1999@gmail.com;
-best regards.
-
-<!---
-neji78/neji78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to reach out to me at esmaeil.sadeghi1999@gmail.com. Best regards!
